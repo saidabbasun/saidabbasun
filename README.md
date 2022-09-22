@@ -30,7 +30,7 @@
 
 #
 
-<h3 align="left"> 📫 Connect with me </h3>[](GIF/Handshake.gif)
+<h3 align="left"> 📫 Connect with me <img  src="GIF/Handshake.gif"></h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/saidabbasun" target="_blank">
 <code><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></code>
@@ -134,10 +134,10 @@
 </summary>
 <br/>
 <p align="center">
-<!-- <img height="150" width="150" src="WEBP/left.webp"> -->
+
 <img align="center" height="195px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
 <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
-<!-- <img height="150" width="150" src="WEBP/right.webp"> -->
+
 
  </p>
 
