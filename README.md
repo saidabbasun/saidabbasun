@@ -95,25 +95,25 @@
 
 <br/>
 <p align="center">
-<img height="50" width="50" src="WEBP/left.webp">
+<img height="150" width="150" src="WEBP/left.webp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
-<img height="50" width="50" src="WEBP/right.webp">
+<img height="150" width="150" src="WEBP/right.webp">
 
  </p>
 
 <p align="center">
-<img height="50" width="50" src="WEBP/left.webp">
+<img height="150" width="150" src="WEBP/left.webp">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
-<img height="50" width="50" src="WEBP/right.webp">
+<img height="150" width="150" src="WEBP/right.webp">
 
  </p>
 
 <p align="center">
-<img height="50" width="50" src="WEBP/left.webp">
+<img height="150" width="150" src="WEBP/left.webp">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidabbasun&theme=radical" alt="Saidabbos" />
 
 
-<img height="50" width="50" src="WEBP/right.webp">
+<img height="150" width="150" src="WEBP/right.webp">
 
  </p>
 
