@@ -128,7 +128,7 @@
 <br/>
 <p align="center">
 <!-- <img height="150" width="150" src="WEBP/left.webp"> -->
-<img align="center" height="195px", width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
+<img align="center" height="195px", width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
 <!-- <img height="150" width="150" src="WEBP/right.webp"> -->
 
