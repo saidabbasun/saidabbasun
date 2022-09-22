@@ -109,11 +109,11 @@
  </p>
 
 <p align="center">
-<img height="150" width="150" src="WEBP/left.webp">
+<img height="100" width="100" src="WEBP/left.webp">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidabbasun&theme=radical" alt="Saidabbos" />
 
 
-<img height="150" width="150" src="WEBP/right.webp">
+<img height="100" width="100" src="WEBP/right.webp">
 
  </p>
 
