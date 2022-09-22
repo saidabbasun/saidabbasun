@@ -5,7 +5,7 @@
 <h4 align="center" >I am Frontend Developer with good knowledge in HTML, CSS, SASS, LESS,  BOOTSTRAP, TAILWIND CSS JAVA SCRIPT,  jQUERY, TAYPE SCRIPT, REACT JS, REDUX, REDUX-TOOLKIT, REACT QUERY, STAYLED COMPONENTS, MATERIAL UI, SEMANTIK UI  . Passionate about coding and learning new technologies, Looking forward to working in a reputed company.  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saidabbasun&label=Profile%20views&color=0e75b6&style=flat" alt="Saidabbos" />• 
  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/saidabbasun?label=Followers&style=social"> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/following/saidabbasun?label=Following&style=social"> •
+  
   <img src="https://img.shields.io/github/stars/saidabbasun?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/saidabbasun"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
  </p>
@@ -34,21 +34,15 @@
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/saidabbasun" target="_blank">
-<code>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/>
-</code>
+<code><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></code>
 </a>
 
 <a href="https://t.me/saidabbasun" target="_blank">
-<code>
-<img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="60" />
-</code>
+<code><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="60" /></code>
 </a>
 
 <a href="https://www.instagram.com/saidabbasun" target="_blank">
-<code>
-<img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" />
-</code>
+<code><img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" /></code>
 </a>
 
 </p>
