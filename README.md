@@ -166,11 +166,21 @@
 #
 
 <p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+  <br>
+  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+  </a>
+  <a href="https://twitter.com/JayantGoel001" target="_blank">
+    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/jayantgoel001">
+    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+  </a>     
 </p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
+<br/>
