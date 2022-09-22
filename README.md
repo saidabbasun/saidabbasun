@@ -73,12 +73,12 @@
 
 #
 
-<br/>
-     <img
+
+   <code>  <img
       src="https://img.icons8.com/color/48/000000/javascript--v2.png"
       alt="Java Script  "
       height="60"
-    />
+    /></code>
     <img
       src="https://img.icons8.com/ios-filled/50/000000/jquery.png"
       alt="jquery"
