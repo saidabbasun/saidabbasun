@@ -30,7 +30,7 @@
 
 #
 
-<h3 align="left"> 📫 Connect with me </h3>(GIF/Handshake.gif)
+<h3 align="left"> 📫 Connect with me </h3>[](GIF/Handshake.gif)
 <p align='center'>
 <a href="https://www.linkedin.com/in/saidabbasun" target="_blank">
 <code><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></code>
