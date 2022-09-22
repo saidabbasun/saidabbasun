@@ -94,7 +94,7 @@
 </p>
 
 <br/>
-<p align="center">
+<p >
 <img height="150" width="150" src="WEBP/left.webp">
 <p align="center">
 <!-- <p align = "center"> -->
