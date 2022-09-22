@@ -33,9 +33,23 @@
 
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align='center'>
-<a href="https://www.linkedin.com/in/saidabbasun" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></a>
-<a href="https://t.me/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="60" /></a>
-<a href="https://www.instagram.com/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" /></a>
+<a href="https://www.linkedin.com/in/saidabbasun" target="_blank">
+<code>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/>
+</code>
+</a>
+
+<a href="https://t.me/saidabbasun" target="_blank">
+<code>
+<img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="60" />
+</code>
+</a>
+
+<a href="https://www.instagram.com/saidabbasun" target="_blank">
+<code>
+<img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" />
+</code>
+</a>
 
 </p>
 
@@ -163,24 +177,3 @@
   <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
 
-#
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
