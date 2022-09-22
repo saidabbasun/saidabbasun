@@ -28,13 +28,15 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/saidabbasun" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></a>
 <a href="https://t.me/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="40" /></a>
+<a href="https://www.instagram.com/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="40" /></a>
+
 </p>
 <hr>
 
 #
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-<br/> 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <img
