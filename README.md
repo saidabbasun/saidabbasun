@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img style=" height: 70px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> </h1>
  
 <h3 align="center">A passionate Frontend developer</h3>
-<h4 align="center" >I am Frontend Developer with good knowledge in HTML, CSS, SASS, LESS,  BOOTSTRAP, TAILWIND CSS JAVA SCRIPT,  jQUERY, TAYPE SCRIPT, REACT JS, REDUX, REDUX-TOOLKIT, REACT QUERY, STAYLED COMPONENTS, MATERIAL UI, SEMANTIK UI  . Passionate about coding and learning new technologies, Looking forward to working in a reputed company.  </h3>
+<h4 align="center" >I am Frontend Developer with good knowledge in Html, Css, Sass, Less, Bootstrap, Tailwind css, JavaScript,  jQuery, TypeScript, React js, Redux, Redux-toolkit, React query, Stayled components, Material Ui, Semantic Ui. Passionate about coding and learning new technologies, Looking forward to working in a reputed company.  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saidabbasun&label=Profile%20views&color=0e75b6&style=flat" alt="Saidabbos" />• 
  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/saidabbasun?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/saidabbasun?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
