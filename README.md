@@ -40,10 +40,10 @@
 <code><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="60" /></code>
 </a>
 
-<a href="https://www.instagram.com/saidabbasun" target="_blank">
-<code><img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" /></code>
+<code><a href="https://www.instagram.com/saidabbasun" target="_blank">
+<img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" />
 </a>
-
+</code>
 </p>
 
 
