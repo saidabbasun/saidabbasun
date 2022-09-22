@@ -96,7 +96,7 @@
 <br/>
 <p align="center">
 <img height="50" width="50" src="WEBP/left.webp">
-<p align="center">
+<!-- <p align="center"> -->
 <!-- <p align = "center"> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
 <!-- </p> -->
@@ -107,7 +107,7 @@
 
 <!-- <p align = "center" > -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidabbasun&theme=radical" alt="Saidabbos" />
-</p>
+<!-- </p> -->
 <img height="50" width="50" src="WEBP/right.webp">
 <!-- </p> -->
  </p>
