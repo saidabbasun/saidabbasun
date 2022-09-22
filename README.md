@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img style=" height: 70px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Rayimjonov Saidabbos</h1>
+<h1 align="center">Hi <img style=" height: 70px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> </h1>
  
 <h3 align="center">A passionate Frontend developer</h3>
 <h4 align="center" >I am Frontend Developer with good knowledge in HTML, CSS, SASS, LESS,  BOOTSTRAP, TAILWIND CSS JAVA SCRIPT,  jQUERY, TAYPE SCRIPT, REACT JS, REDUX, REDUX-TOOLKIT, REACT QUERY, STAYLED COMPONENTS, MATERIAL UI, SEMANTIK UI  . Passionate about coding and learning new technologies, Looking forward to working in a reputed company.  </h3>
@@ -124,7 +124,7 @@
 <br/>
 <p align="center">
 <!-- <img height="150" width="150" src="WEBP/left.webp"> -->
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
+<img width='100px' src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
 <img src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
 <!-- <img height="150" width="150" src="WEBP/right.webp"> -->
 
