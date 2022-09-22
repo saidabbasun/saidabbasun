@@ -44,7 +44,6 @@
 <p align="end">
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
