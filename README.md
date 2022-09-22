@@ -45,31 +45,31 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img
+   <code> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       height="60"
-    />
-    <img
+    /></code>
+ <code>   <img
       src="https://img.icons8.com/color/48/000000/html-5--v1.png"
       alt="html5"
       height="60"
-    />
-    <img
+    /></code>
+   <code> <img
       src="https://img.icons8.com/color/48/000000/css3.png"
       alt="Css"
       height="60"
-    />
-     <img
+    /></code>
+   <code>  <img
       src="https://img.icons8.com/color/48/000000/bootstrap.png"
       alt="bootstrap"
       height="60"
-    />
-    <img
+    /></code>
+  <code>  <img
       src="https://img.icons8.com/color/48/000000/sass.png"
       alt="sass"
       height="60"
-    />
+    /></code>
 
 #
 
@@ -79,35 +79,35 @@
       alt="Java Script  "
       height="60"
     /></code>
-    <img
+   <code> <img
       src="https://img.icons8.com/ios-filled/50/000000/jquery.png"
       alt="jquery"
       height="60"
-    />
-   <img
+    /></code>
+  <code> <img
       src="https://img.icons8.com/color/48/000000/typescript.png"
       alt="typescript"
       width="40"
       height="40"
-    />
-    <img
+    /></code>
+   <code> <img
       src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"
       alt="react"
       width="40"
       height="40"
-    />
-    <img
+    /></code>
+   <code> <img
       src="https://img.icons8.com/color/48/000000/redux.png"
       alt="redux"
       width="40"
       height="40"
-    />
-    <img
+    /></code>
+   <code> <img
       src="https://img.icons8.com/color/48/000000/material-ui.png"
       alt="material ui"
       width="40"
       height="40"
-    />
+    /></code>
     </p>
     </p>
 
