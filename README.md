@@ -124,7 +124,7 @@
 <br/>
 <p align="center">
 <!-- <img height="150" width="150" src="WEBP/left.webp"> -->
-<img width='100px' src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
+<img width='200px' height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
 <img src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
 <!-- <img height="150" width="150" src="WEBP/right.webp"> -->
 
