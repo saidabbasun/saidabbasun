@@ -87,25 +87,21 @@
   <code> <img
       src="https://img.icons8.com/color/48/000000/typescript.png"
       alt="typescript"
-      width="60"
       height="60"
     /></code>
    <code> <img
       src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"
       alt="react"
-      width="60"
       height="60"
     /></code>
    <code> <img
       src="https://img.icons8.com/color/48/000000/redux.png"
       alt="redux"
-      width="60"
       height="60"
     /></code>
    <code> <img
       src="https://img.icons8.com/color/48/000000/material-ui.png"
       alt="material ui"
-      width="60"
       height="60"
     /></code>
     </p>
