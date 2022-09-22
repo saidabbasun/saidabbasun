@@ -9,7 +9,7 @@
   <a href="https://github.com/sponsors/saidabbasun"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
  </p>
  
-#
+#F
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -73,7 +73,7 @@
 
 #
 
-
+<p align="center">
    <code>  <img
       src="https://img.icons8.com/color/48/000000/javascript--v2.png"
       alt="Java Script  "
@@ -87,27 +87,28 @@
   <code> <img
       src="https://img.icons8.com/color/48/000000/typescript.png"
       alt="typescript"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     /></code>
    <code> <img
       src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"
       alt="react"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     /></code>
    <code> <img
       src="https://img.icons8.com/color/48/000000/redux.png"
       alt="redux"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     /></code>
    <code> <img
       src="https://img.icons8.com/color/48/000000/material-ui.png"
       alt="material ui"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     /></code>
+    </p>
     </p>
     </p>
 
