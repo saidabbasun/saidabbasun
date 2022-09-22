@@ -26,8 +26,8 @@
 <br/>
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align='center'>
-<a href="https://www.linkedin.com/in/saidabbasun" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="50"/></a>
-<a href="https://t.me/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="50" /></a>
+<a href="https://www.linkedin.com/in/saidabbasun" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></a>
+<a href="https://t.me/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -96,15 +96,24 @@
 <br/>
 <p align="center">
 <img height="50" width="50" src="WEBP/left.webp">
-<!-- <p align="center"> -->
-<!-- <p align = "center"> -->
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
-<!-- </p> -->
+<img height="50" width="50" src="WEBP/right.webp">
 
+ </p>
+
+<p align="center">
+<img height="50" width="50" src="WEBP/left.webp">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
+<img height="50" width="50" src="WEBP/right.webp">
+
+ </p>
+
+<p align="center">
+<img height="50" width="50" src="WEBP/left.webp">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidabbasun&theme=radical" alt="Saidabbos" />
 
 
 <img height="50" width="50" src="WEBP/right.webp">
-<!-- </p> -->
+
  </p>
 
