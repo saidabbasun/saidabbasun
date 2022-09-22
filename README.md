@@ -9,10 +9,13 @@
   <a href="https://github.com/sponsors/saidabbasun"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
  </p>
  
-#F
+#
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
+<br/>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
 - 🌱 I’m currently learning **Node js**
 
@@ -124,7 +127,7 @@
 <br/>
 <p align="center">
 <!-- <img height="150" width="150" src="WEBP/left.webp"> -->
-<img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
+<img  height="195px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidabbasun&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saidabbos " />
 <img src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
 <!-- <img height="150" width="150" src="WEBP/right.webp"> -->
 
