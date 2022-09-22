@@ -26,9 +26,9 @@
 <br/>
 
 #
-<p align='center'>
-<h3 > 📫 Connect with me:</h3>
 
+<h3 align="center"> 📫 Connect with me:</h3>
+<p align='center'>
 <a href="https://www.linkedin.com/in/saidabbasun" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="40"/></a>
 <a href="https://t.me/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png " alt="Telegram" height="60" /></a>
 <a href="https://www.instagram.com/saidabbasun" target="_blank"><img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="Instagram" height="60" /></a>
