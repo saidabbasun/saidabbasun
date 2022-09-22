@@ -134,12 +134,6 @@
 
  </p>
 
-<p align="center">
-<img height="125" width="125" src="WEBP/left.webp">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidabbasun&show_icons=true&locale=en&theme=chartreuse-dark" alt="Saidabbos " />
-<img height="125" width="125" src="WEBP/right.webp">
-
- </p>
 
 <p align="center">
 <img height="100" width="100" src="WEBP/left.webp">
